@@ -12,3 +12,9 @@ rtsp://admin:Maduc.18@192.168.1.36:554/onvif1
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1,Seria 5
 https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+#EXTINF:-1,K+PC 
+http://180.214.238.157/live/kpcc2/index.m3u8
+#EXTINF:-1,K+NS
+http://180.214.238.157/live/knsc2/index.m3u8
+#EXTINF:-1,K+PM
+http://180.214.238.157/live/kpmc2/index.m3u8
