@@ -5,7 +5,8 @@ http://180.214.238.157/live/kpcc2/index.m3u8
 #EXTINF:-1,K+NS
 http://180.214.238.157/live/knsc2/index.m3u8
 #EXTINF:-1,K+PM
-http://180.214.238.157/live/kpmc2/index.m3u8#EXTINF:-1,Đồng Tháp 2 - Miền Tây
+http://180.214.238.157/live/kpmc2/index.m3u8
+#EXTINF:-1,Đồng Tháp 2 - Miền Tây
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1998888776.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 1" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 1 HD
 rtsp://admin:Maduc.18@home1st.rdsvn.biz:554/onvif1
