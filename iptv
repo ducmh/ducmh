@@ -1,19 +1,46 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://fptplay.vn/images/logo.png" type="stream" channelId="-1", Serie A 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 1" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 1 HD
+rtsp://admin:Maduc.18@home1st.rdsvn.biz:554/onvif1
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 2" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 2 HD
+rtsp://admin:Maduc.18@home1st.rdsvn.biz:555/onvif1
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 3" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 3 HD
+rtsp://admin:Maduc.18@336ltk.ddns.net:554/onvif1
 #EXTINF:-1,K+PC 
 http://180.214.238.157/live/kpcepl/index.m3u8
 #EXTINF:-1,K+NS
 http://180.214.238.157/live/knsepl/index.m3u8
 #EXTINF:-1,K+PM
 http://180.214.238.157/live/kpmepl/index.m3u8
-#EXTINF:-1,Seria 5
-https://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 1" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 1 HD
-rtsp://admin:Maduc.18@home1st.rdsvn.biz:554/onvif1
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 2" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 2 HD
-rtsp://admin:Maduc.18@home1st.rdsvn.biz:555/onvif1
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="Yoosee 3" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",Yoosee 3 HD
-rtsp://admin:Maduc.18@192.168.1.36:554/onvif1
 #EXTINF:-1,HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
